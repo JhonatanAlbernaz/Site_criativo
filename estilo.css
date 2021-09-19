@@ -1,0 +1,78 @@
+.h-640 {
+    height: 640px;
+}
+.h-500 {
+    height: 500px;
+}
+.h-400 {
+    height: 400px;
+}
+.h-300 {
+    height: 300px;
+}
+.h-200 {
+    height: 200px;
+}
+.bg-imagem {
+    background-image: url(https://www.pngkey.com/png/full/304-3045665_use-this-neon-80s.png);
+    background-position: center;
+}
+.mt-160 {
+    margin-top: 160px;
+}
+.divisor {
+    border: 2px solid blueviolet;
+    width: 100%;
+}
+.botao-primario {
+    border: 3px solid white !important;
+    border-radius: 20px !important;
+}
+.bg-azul {
+    background-color: #0a225e;
+}
+.bg-azul-botao {
+    background-color: #0a225e;
+}
+.bg-azul-botao:hover {
+    background-color: blueviolet;
+}
+.texto-azul {
+    color: #0a225e !important;
+}
+.icones {
+    color: #0a225e !important;
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.bg-imagem-1 {
+    background-image: url(https://pyre-media-2.s3.sa-east-1.amazonaws.com/63c9e83a-de92-4bb2-b0c0-cd28eec89319foto-generica-de-games--controle-de-videogame-headphone-teclado-mouse-1575320464608_v2_900x506.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bg-imagem-2 {
+    background-image: url(https://tecnoblog.net/wp-content/uploads/2020/07/como-jogar-tft-01.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg-imagem-3 {
+    background-image: url(https://i.pinimg.com/originals/a8/4d/d8/a84dd828210a4b9f52aab736f68cf67f.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bg-imagem-4 {
+    background-image: url(https://www.oficinadanet.com.br/imagens/post/18530/shadow-of-war.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bg-imagem-5 {
+    background-image: url(https://meups.com.br/wp-content/uploads/2016/05/Uncharted-4_PS4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bg-imagem-6 {
+    background-image: url(https://image.api.playstation.com/vulcan/img/rnd/202010/2217/LsaRVLF2IU2L1FNtu9d3MKLq.jpg?w=440);
+    background-position: center;
+    background-size: cover;
+}
